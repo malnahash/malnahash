@@ -2,6 +2,8 @@
 
 **Data Science & Digital Transformation Intern @ Saudi Aramco** (Summer 2026) · B.S. Data Science, University of Arizona — expected May 2027, minors in AI and Computer Science
 
+🔭 **Now:** senior capstone in data science (DATA 498, Fall 2026)
+
 🌐 **[malnahash.github.io](https://malnahash.github.io)** — full portfolio
 
 ## In production — Saudi Aramco
