@@ -32,4 +32,4 @@ Three interconnected workforce platforms I architected, built, and deployed as a
 
 ## Contact
 
-📫 [nahash@arizona.edu](mailto:nahash@arizona.edu) · [Portfolio](https://malnahash.github.io) <!-- TODO: add LinkedIn link -->
+📫 [nahash@arizona.edu](mailto:nahash@arizona.edu) · [Portfolio](https://malnahash.github.io) [LinkedIn](https://www.linkedin.com/in/mohammad-alnahash-a9a3543bb/)
